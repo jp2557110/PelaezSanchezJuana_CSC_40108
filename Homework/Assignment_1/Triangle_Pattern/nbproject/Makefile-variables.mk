@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=triangle_pattern
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/triangle_pattern
+CND_ARTIFACT_NAME_Debug=triangle_pattern_1
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/triangle_pattern_1
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=trianglepattern.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/trianglepattern.tar
+CND_PACKAGE_NAME_Debug=trianglepattern1.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/trianglepattern1.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=triangle_pattern
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/triangle_pattern
+CND_ARTIFACT_NAME_Release=triangle_pattern_1
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/triangle_pattern_1
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=trianglepattern.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/trianglepattern.tar
+CND_PACKAGE_NAME_Release=trianglepattern1.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/trianglepattern1.tar
 #
 # include compiler specific variables
 #

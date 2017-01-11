@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Triangle_Pattern
+PROJECTNAME=Triangle_Pattern_1
 
 # Active Configuration
 DEFAULTCONF=Debug

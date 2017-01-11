@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     cout<<"Juana Sanchez\n"
   << "2877 Roadway, El Paso,Texas,9875\n"
   <<"951-123-4567\n"
-  <<"Zoology\n\n"<<endl;
+  <<"Zoology\n\n";
             
     return 0;
 }

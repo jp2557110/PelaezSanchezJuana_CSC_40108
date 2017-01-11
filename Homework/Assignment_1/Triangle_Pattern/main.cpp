@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     cout<<"    *\n"
     <<"   ***\n"
     <<"  *****\n"
-    <<" *******\n\n"<<endl;
+    <<" *******\n\n";
     
 
     return 0;
