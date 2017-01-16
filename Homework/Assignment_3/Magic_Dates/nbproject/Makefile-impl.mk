@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Debt_Per_Person
+PROJECTNAME=Magic_Dates
 
 # Active Configuration
 DEFAULTCONF=Debug

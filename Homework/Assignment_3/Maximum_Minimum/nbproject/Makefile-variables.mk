@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=debt_per_person
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/debt_per_person
+CND_ARTIFACT_NAME_Debug=maximum_minimum
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/maximum_minimum
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=debtperperson.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/debtperperson.tar
+CND_PACKAGE_NAME_Debug=maximumminimum.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/maximumminimum.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=debt_per_person
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/debt_per_person
+CND_ARTIFACT_NAME_Release=maximum_minimum
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/maximum_minimum
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=debtperperson.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/debtperperson.tar
+CND_PACKAGE_NAME_Release=maximumminimum.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/maximumminimum.tar
 #
 # include compiler specific variables
 #

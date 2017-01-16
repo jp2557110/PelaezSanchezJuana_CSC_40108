@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Federal_Budget
+PROJECTNAME=Maximum_Minimum
 
 # Active Configuration
 DEFAULTCONF=Debug

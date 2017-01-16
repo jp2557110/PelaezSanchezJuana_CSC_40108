@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=federal_budget
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/federal_budget
+CND_ARTIFACT_NAME_Debug=magic_dates
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/magic_dates
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=federalbudget.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/federalbudget.tar
+CND_PACKAGE_NAME_Debug=magicdates.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/magicdates.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=federal_budget
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/federal_budget
+CND_ARTIFACT_NAME_Release=magic_dates
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/magic_dates
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=federalbudget.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/federalbudget.tar
+CND_PACKAGE_NAME_Release=magicdates.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/magicdates.tar
 #
 # include compiler specific variables
 #
